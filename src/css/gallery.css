@@ -80,3 +80,15 @@ button {
 button:hover {
   background-color: #3259db;
 }
+
+.loader.is-hidden{
+  display: none;
+}
+
+.load-more {
+  margin-top: 30px;
+}
+
+.load-more.boost {
+display: none;
+}
